@@ -1,0 +1,9 @@
+{
+  "name": "hk-policy-service-survey",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 43123",
+    "test": "node --test"
+  }
+}
